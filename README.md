@@ -120,7 +120,7 @@ Upon looking into the dataset more closely, I found there are many other countri
 # 🔍 Suggestions for Further Exploration
 
 - Compare regions by continent 🌍, not just individual countries.
-- Analyze population growth trends beyond Europe, including factors like:
+- Analyse population growth trends beyond Europe, including factors like:
 - Life expectancy 🏥
 - Migration rates ✈️
 - Countries with highest or lowest growth 📈📉
